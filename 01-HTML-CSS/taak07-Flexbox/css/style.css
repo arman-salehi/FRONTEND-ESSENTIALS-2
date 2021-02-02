@@ -30,9 +30,17 @@
 /* TIP: Laat bovenstaande code staan */
 
 /* dobbelsteen1 */
-
+.dobbelsteen1 {
+    align-items: center;
+    justify-content: center;
+}
 /* dobbelsteen2 */
+.dobbelsteen2 .rechts .stip {
+    background-color: blue;
+    align-items: center;
+    justify-content: flex-start;
 
+}
 /* dobbelsteen3 */
 
 /* dobbelsteen4 */
