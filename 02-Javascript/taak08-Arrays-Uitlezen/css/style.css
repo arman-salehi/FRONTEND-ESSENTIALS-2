@@ -13,3 +13,21 @@ td{
     border-radius: 5px;
     padding: 10px;
 }
+
+button {
+    background-color: blue;
+    border: 0;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.refresh {
+    background-color: blue;
+    border: 0;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 12px;
+    text-decoration: none;
+}

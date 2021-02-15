@@ -27,7 +27,7 @@ button{
     border: 5px solid green;
 }
 
-.score{
+#score{
     color: darkblue;
     background-color: lightskyblue;
     border: 5px solid blue; 
